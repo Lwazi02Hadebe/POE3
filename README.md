@@ -17,4 +17,4 @@ The system ensures that the claims are properly validated, approved, or rejected
 *Programme Coordinator Dashboard:
 >Programme Coordinators can view all submitted claims in a clear and organized manner.
 >Each claim can be approved or rejected based on the information submitted by the lecturer.
->Coordinators can provide feedback or additional notes on each 
+>Coordinators can provide feedback or additional notes on each claim
