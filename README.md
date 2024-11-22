@@ -12,3 +12,9 @@ This project is built using the Model-View-Controller (MVC) architecture and aim
 *Programme Coordinator Dashboard: A dashboard for Programme Coordinators to review and approve or reject the submitted claims based on provided details.
 
 The system ensures that the claims are properly validated, approved, or rejected based on the inputs provided by the lecturers, making the workflow efficient and transparent
+*Lecture Claims Dashboard:
+>Lecturers can submit claims with the necessary details (e.g., module name, hours worked, hourly rate).
+*Programme Coordinator Dashboard:
+>Programme Coordinators can view all submitted claims in a clear and organized manner.
+>Each claim can be approved or rejected based on the information submitted by the lecturer.
+>Coordinators can provide feedback or additional notes on each 
